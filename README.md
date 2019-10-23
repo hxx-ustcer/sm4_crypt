@@ -4,7 +4,7 @@
 
 依赖库：gmssl，pillow
 
-'''bash
+```bash
 pip install gmssl
 pip install pillow
-'''
+```
